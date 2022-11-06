@@ -1,0 +1,69 @@
+old_name,new_name
+Корневой ИД заявки,root_id
+ИД версии заявки,version_id
+Номер заявки,request_number
+Уникальный номер обращения ГУ (mos.ru),mos_ru_request_number
+Дата создания заявки в формате Timezone,date_of_creation
+Дата начала действия версии заявки в формате Timezone,date_of_start
+Наименование источника поступления заявки,name_of_source
+Код источника поступления заявки,name_of_source_eng
+Имя создателя заявки,name_of_creator
+Признак инцидента,incident_feature
+Корневой идентификатор материнской заявки,root_identificator_of_maternal
+Номер материнской заявки,number_of_maternal
+"Пользователь, внесший последнее изменение",last_name_redacted
+Роль организации пользователя,role_of_user
+Комментарии,commentaries
+Наименование категории дефекта,deffect_category_name
+Корневой идентификатор категории дефекта,deffect_category_id
+Код категории дефекта,deffect_category_name_eng
+Наименование дефекта,deffect_name
+Краткое наименование дефекта,short_deffect_name
+Идентификатор дефекта,deffect_id
+Код дефекта,code_of_deffect
+Признак дефекта возврата на доработку,need_for_revision
+Описание,description
+Наличие у заявителя вопроса,presence_of_question
+"Наименование категории срочности: Аварийная, Обычная",urgency_category
+Код категории срочности,urgency_category_eng
+Наименование округа,district
+Код округа,district_code
+Наименование района,hood
+Код района,hood_code
+Адрес проблемы,adress_of_problem
+УНОМ,adress_unom
+Подъезд,porch
+Этаж,floor
+Квартира,flat_number
+ОДС (номер объединенной диспетчерской службы),dispetchers_number
+Наименование управляющей компании,owner_company
+Наименование обслуживавшей организации (исполнителя),serving_company
+Идентификатор организации-исполнителя,performing_company
+ИНН организации-исполнителя,inn_of_performing_company
+Наименование статуса заявки,request_status
+Код статуса заявки,request_status_eng
+Наименование причины отказа исполнителя,reason_for_decline
+Идентификатор причины отказа исполнителя,id_of_reason_for_decline
+Наименование причины отказа Организации-исполнителя,reason_for_decline_of_org
+Идентификатор причины отказа Организации-исполнителя,id_of_reason_for_decline_of_org
+Вид выполненных работ,work_type_done
+Идентификатор корневой версии вида выполненных работ,id_work_type_done
+Израсходованный материал,used_material
+Наименование охранных мероприятий,guarding_events
+Идентификатор корневой версии охранных мероприятий,id_guarding_events
+Результативность,efficiency
+Код результативности,efficiency_eng
+Кол-во возвратов на доработку,times_returned
+Дата последнего возврата на доработку,date_of_last_return_for_revision
+Признак нахождения на доработке,being_on_revision
+Признак “Оповещен”,alerted_feature
+Дата закрытия,closure_date
+Желаемое время с,wanted_time_from
+Желаемое время до,wanted_time_to
+Дата отзыва/оценки,date_of_review
+Отзыв,review
+Оценка качества выполнения работ,grade_for_service
+Код оценки качества выполнения ра,grade_for_service_eng
+Наименование категории платности,payment_category
+Код категории платности,payment_category_eng
+Признак оплаты картой,payed_by_card

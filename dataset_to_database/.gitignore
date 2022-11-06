@@ -1,0 +1,11 @@
+#
+*.csv
+*.json
+
+# Folders:
+.ipynb_checkpoints
+leadershack_env
+.DS_Store
+
+# Files:
+!naming.csv
